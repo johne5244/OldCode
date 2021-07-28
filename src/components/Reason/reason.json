@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Number of Developer",
+    "img": "/img/1.gif",
+    "desc": "We want to have a public record of the total number of Developers, we have in Ajegunle. This will help us plan for numerious Opportunities for Developers"
+  },
+  {
+    "name": "Clutter Area ",
+    "img": "/img/11.gif",
+    "desc": "We sub divid Ajegunle in five(5) communities, namely: Boundary, Orige, Ojo Road, Tolu and Wilma, we want to know which area has the most Developers."
+  },
+  {
+    "name": "Available stacks",
+    "img": "/img/2.gif",
+    "desc": "There are a lot of Job that are constantly in coming up and it such need the service of a Developer. We want to know how to evenly distribute these JOBS!"
+  }
+]

@@ -1,0 +1,47 @@
+.web {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.webContent {
+  display: flex;
+  width: 400px;
+  height: 200px;
+  grid-template-columns: 1fr 1fr;
+  margin: 0;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin: 10px 10px;
+  /* background-color: brown; */
+}
+.webContent:hover {
+  cursor: pointer;
+  box-shadow: 0 5px 7px -7px rgba(121, 111, 111, 0.75);
+  border: 1px solid lightblue;
+
+  /* background-color: brown; */
+}
+
+.webImage {
+  width: 50%;
+  height: 100%;
+  /* background-color: red; */
+  margin: 0;
+  object-fit: cover;
+  border-radius: 5px 0 0px 5px;
+}
+.webContent > div {
+  width: 50%;
+  height: 100%;
+  /* background-color: blue; */
+  margin: 0;
+  padding: 0 10px;
+}
+
+.web__textHolder > div {
+  font-size: 14px;
+}
+.web__textHolder > h3 {
+  font-size: 14px;
+}
